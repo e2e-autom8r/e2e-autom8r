@@ -1,4 +1,10 @@
+![logo](https://github.com/praphullgaikwad/praphullgaikwad/blob/main/Github%20Banner.png)
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h1 align="center">Hi 👋, I'm Praphull Gaikwad</h1>
+
+<h3 align="center">A passionate Software Engineer from India</h3>
+
 <h3 align="center">Results-oriented Test Engineer with 3+ years of experience in developing efficient automated testing solutions. Proficient in Selenium, Playwright, Cypress, Rest Assured, Java, JavaScript, TypeScript, Jenkins, Docker, and AWS.</h3>
 
 - 💬 Ask me about **UI Automation, API Automation, Desktop Automation, Mobile Automation and QA-OPS**
