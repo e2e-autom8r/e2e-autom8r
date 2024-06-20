@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h1 align="center">Hi 👋, I'm Praphull Gaikwad</h1>
 <h3 align="center">A passionate QA-Automation Engineer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=e2e-autom8r&label=Profile%20views&color=0e75b6&style=flat" alt="praphull-gaikwad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=e2e-autom8r" alt="praphull-gaikwad" /> </p>
 
 # Keyskills:
 - 🔭 Programming Languages (Java, JavaScript, TypeScript & Python)
