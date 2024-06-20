@@ -36,4 +36,4 @@
         <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" /></a>
     </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praphullgaikwad&show_icons=true&locale=en&layout=compact" alt="praphullgaikwad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=e2e-autom8r&show_icons=true&locale=en&layout=compact" alt="praphullgaikwad" /></p>
